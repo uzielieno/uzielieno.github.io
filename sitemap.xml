@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://uzielieno.github.io/fr</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/fr/expertises</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/expertises" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/expertise" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/expertises" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en/expertise</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/expertises" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/expertise" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/expertises" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/fr/projets</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en/projects</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/fr/parcours</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/parcours" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/about" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/parcours" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en/about</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/parcours" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/about" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/parcours" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/fr/contact</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/contact" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/contact" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/contact" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en/contact</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/contact" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/contact" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/contact" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/fr/projets/m365-security-automation-lab</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/m365-security-automation-lab" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/m365-security-automation-lab" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/m365-security-automation-lab" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en/projects/m365-security-automation-lab</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/m365-security-automation-lab" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/m365-security-automation-lab" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/m365-security-automation-lab" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/fr/projets/ai-customer-support-agent</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/ai-customer-support-agent" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/ai-customer-support-agent" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/ai-customer-support-agent" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en/projects/ai-customer-support-agent</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/ai-customer-support-agent" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/ai-customer-support-agent" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/ai-customer-support-agent" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/fr/projets/multi-agent-orchestration</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/multi-agent-orchestration" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en/projects/multi-agent-orchestration</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/multi-agent-orchestration" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
