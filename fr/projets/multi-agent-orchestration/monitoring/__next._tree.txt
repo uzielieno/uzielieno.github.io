@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0w8n7mn92u9ru.css","style"]
+:HL["/_next/static/chunks/0rflbd448qifd.css","style"]
 :HL["/_next/static/media/GeistMono_Variable.p.30453b9rv70y7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/Geist_Variable-s.p.3h407z6i7-mwk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 5:[["children",{"s":"__PAGE__","h":160}]]
@@ -6,4 +6,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"multi-agent-orchestration","s":[]},"h":196704,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"section","t":"d","k":"projets","s":[]},"h":196672,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"fr","s":[]},"h":196656,"c":"$Q2"}]]
-0:{"b":"bOnkjhXhvaRybhrRT9AjF","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"ZwDRO9Yrg2_Mj1rrYYNLj","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

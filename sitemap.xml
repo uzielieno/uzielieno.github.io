@@ -176,4 +176,20 @@
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://uzielieno.github.io/fr/projets/m365-security-automation-lab/teams-meeting-scheduler</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/m365-security-automation-lab/teams-meeting-scheduler" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/m365-security-automation-lab/teams-meeting-scheduler" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/m365-security-automation-lab/teams-meeting-scheduler" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en/projects/m365-security-automation-lab/teams-meeting-scheduler</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/m365-security-automation-lab/teams-meeting-scheduler" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/m365-security-automation-lab/teams-meeting-scheduler" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/m365-security-automation-lab/teams-meeting-scheduler" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
