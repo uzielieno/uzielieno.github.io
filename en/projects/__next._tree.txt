@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/0rflbd448qifd.css","style"]
+:HL["/_next/static/chunks/2fnrbzc1l005a.css","style"]
 :HL["/_next/static/media/GeistMono_Variable.p.30453b9rv70y7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/Geist_Variable-s.p.3h407z6i7-mwk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"section","t":"d","k":"projects","s":[]},"h":65600,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":196656,"c":"$Q2"}]]
-0:{"b":"ZwDRO9Yrg2_Mj1rrYYNLj","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"yIIIdIlgppWekDNDReP2L","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
