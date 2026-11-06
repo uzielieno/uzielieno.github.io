@@ -5,4 +5,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"multi-agent-orchestration","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"section","t":"d","k":"projets","s":[]},"h":196672,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"fr","s":[]},"h":196656,"c":"$Q2"}]]
-0:{"b":"dWM7l-ZkYfw1kakVUpnyz","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"3EWsSNRv_dMnKTNvOokx9","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
