@@ -97,18 +97,18 @@
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://uzielieno.github.io/fr/projets/ai-customer-support-agent</loc>
-<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/ai-customer-support-agent" />
-<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/ai-customer-support-agent" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/ai-customer-support-agent" />
+<loc>https://uzielieno.github.io/fr/projets/multi-agent-orchestration/ai-customer-support-agent</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/ai-customer-support-agent" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/multi-agent-orchestration/ai-customer-support-agent" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/ai-customer-support-agent" />
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://uzielieno.github.io/en/projects/ai-customer-support-agent</loc>
-<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/ai-customer-support-agent" />
-<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/ai-customer-support-agent" />
-<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/ai-customer-support-agent" />
+<loc>https://uzielieno.github.io/en/projects/multi-agent-orchestration/ai-customer-support-agent</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/ai-customer-support-agent" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/multi-agent-orchestration/ai-customer-support-agent" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/ai-customer-support-agent" />
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -125,6 +125,54 @@
 <xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration" />
 <xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/multi-agent-orchestration" />
 <xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/fr/projets/multi-agent-orchestration/monitoring</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/monitoring" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/multi-agent-orchestration/monitoring" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/monitoring" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en/projects/multi-agent-orchestration/monitoring</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/monitoring" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/multi-agent-orchestration/monitoring" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/monitoring" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/fr/projets/multi-agent-orchestration/job-search</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/job-search" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/multi-agent-orchestration/job-search" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/job-search" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en/projects/multi-agent-orchestration/job-search</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/job-search" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/multi-agent-orchestration/job-search" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/job-search" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/fr/projets/multi-agent-orchestration/prospecting</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/prospecting" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/multi-agent-orchestration/prospecting" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/prospecting" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://uzielieno.github.io/en/projects/multi-agent-orchestration/prospecting</loc>
+<xhtml:link rel="alternate" hreflang="fr" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/prospecting" />
+<xhtml:link rel="alternate" hreflang="en" href="https://uzielieno.github.io/en/projects/multi-agent-orchestration/prospecting" />
+<xhtml:link rel="alternate" hreflang="x-default" href="https://uzielieno.github.io/fr/projets/multi-agent-orchestration/prospecting" />
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
