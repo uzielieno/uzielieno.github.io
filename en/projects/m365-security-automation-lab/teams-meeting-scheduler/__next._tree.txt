@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/1jd2ridp7z5a8.css","style"]
+:HL["/_next/static/chunks/3d7otao6mnd_5.css","style"]
 :HL["/_next/static/media/GeistMono_Variable.p.30453b9rv70y7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/Geist_Variable-s.p.3h407z6i7-mwk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -7,4 +7,4 @@
 3:[["children",{"s":{"n":"slug","t":"d","k":"m365-security-automation-lab","s":[]},"h":196704,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"section","t":"d","k":"projects","s":[]},"h":196672,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":196656,"c":"$Q2"}]]
-0:{"b":"N3eBz3xjN2H6ZPG_YJJfl","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"yC-lyhbvCbT83ghxalv32","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
